@@ -7,3 +7,6 @@ title: "InterpolateScalingPy"
 version: 1.0
 date-released: 2025-06-23
 url: "https://github.com/aReallyBadDoctor/InterpolateScaling"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15733193 
